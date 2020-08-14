@@ -1,4 +1,6 @@
-### Hi there 👋
+![banana](https://www.stock.com.py/images/thumbs/0167518.jpeg)
+
+
 
 <!--
 **ezegatica/ezegatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
