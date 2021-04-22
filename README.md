@@ -1,9 +1,13 @@
-## Hey! I dont know what to write here.
-### Enjoy this while I think of a better bio.
-<!-- ![cat](https://filmdaily.co/wp-content/uploads/2020/04/cute-cat-videos-lede.jpg) -->
-  <img src="https://filmdaily.co/wp-content/uploads/2020/04/cute-cat-videos-lede.jpg" width="100%" title=":3" alt="CAT" >
+# Eze Gatica
+- 🐦 [@ezegaticaa](https://twitter.com/ezegaticaa)
+- 📸 [ezegatica](https://www.instagram.com/ezegatica/)
+- 🌎 [eze.wtf](https://eze.wtf)
 
 
+- <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegatica&theme=highcontrast&layout=compact&langs\_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![cat](https://filmdaily.co/wp-content/uploads/2020/04/cute-cat-videos-lede.jpg) 
 
 <!--
 **ezegatica/ezegatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
