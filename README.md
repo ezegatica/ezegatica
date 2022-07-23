@@ -1,7 +1,7 @@
 # Eze Gatica
 - 🐦 [@ezegaticaa](https://twitter.com/ezegaticaa)
-- 📸 [ezegatica](https://www.instagram.com/ezegatica/)
-<!--- 🌎 [eze.wtf](https://eze.wtf)-->
+- 📸 [ezegaticaa](https://www.instagram.com/ezegaticaa/)
+- 🌎 [ezegatica.com](https://ezegatica.com)
 
 
 - <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegatica&theme=highcontrast&layout=compact&langs\_count=6)](https://github.com/anuraghazra/github-readme-stats)
